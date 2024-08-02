@@ -1,0 +1,23 @@
+{
+  "name": "alvinqid",
+  "version": "1.0.0",
+  "description": "Storage Components with React",
+  "main": "./index.js",
+  "keywords": [
+    "localStorage",
+    "react",
+    "sessionStorage",
+    "components",
+    "react-component"
+  ],
+  "peerDependencies": {
+    "@types/react": ">=16.14.8",
+    "react": ">=16.14.0",
+    "react-dom": ">=16.14.0"
+  },
+  "peerDependenciesMeta": {
+    "@types/react": {
+      "optional": true
+    }
+  }
+}
